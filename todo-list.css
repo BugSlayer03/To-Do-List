@@ -104,7 +104,8 @@ button:hover {
     align-items: center;
 }
 
-::placeholder {
+/* ::placeholder {
     color: black;
 
-}
+} */
+
